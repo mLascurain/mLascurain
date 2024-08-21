@@ -11,9 +11,9 @@ UTN software developer driven by IT
   <summary><h2> Repos</h2></summary>
 
   <p>
-    <a href="https://github.com/mLascurain/Kimetsu-Web"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mLascurain&repo=Kimetsu-Web&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/mLascurain/KiwBoard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mLascurain&repo=KiwBoard&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>      
-    <a href="https://github.com/mLascurain/randomColorGenerator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mLascurain&repo=randomColorGenerator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/mLascurain/Kimetsu-Web"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mLascurain&repo=Kimetsu-Web&theme=dark&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/mLascurain/KiwBoard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mLascurain&repo=KiwBoard&theme=dark&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>      
+    <a href="https://github.com/mLascurain/randomColorGenerator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mLascurain&repo=randomColorGenerator&theme=dark&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
 
 <a href="https://github.com/mLascurain?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -21,7 +21,7 @@ UTN software developer driven by IT
 </details>
 
 #  Most Used Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mLascurain&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mLascurain&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mLascurain&icon=3&color=12)](https://visitcount.itsvg.in)
