@@ -1,6 +1,5 @@
 #  About Me:
-<br>I enjoy the challenge of learning and mastering new technologies to create effective solutions and<br>keep up to date with industry trends.
-
+I enjoy the challenge of learning and mastering new technologies to create effective and <br> keep up with industry trends.
 
 ##  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lascurain.matias) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-lascurain/) 
