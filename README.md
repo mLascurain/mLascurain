@@ -1,7 +1,7 @@
 #  About Me:
 UTN software developer driven by IT
 
-#  Find Me Here:
+---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-lascurain/) 
 
 #  Tech Stack:
