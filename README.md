@@ -2,6 +2,7 @@
 UTN software developer driven by IT<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-lascurain/)
+
 <img alt="Email" src="https://img.shields.io/badge/Gmail-matiaslascurain04@gmail.com-blue?style=flat-square&logo=gmail">
 
 
