@@ -14,7 +14,7 @@ UTN software developer driven by IT<br>
   <summary><h2> Repos</h2></summary>
 
   <p>
-    <a href="https://github.com/mLascurain/Kimetsu-Web"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mLascurain&repo=Kimetsu-Web&theme=dark&bg_color=151515&title_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/mLascurain/JMboard-php"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mLascurain&repo=JMboard-php&theme=dark&bg_color=151515&title_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/mLascurain/SpeedUp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mLascurain&repo=SpeedUp&theme=dark&bg_color=151515&title_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>      
     <a href="https://github.com/mLascurain/toggle-dark-mode"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mLascurain&repo=Toggle-dark-mode&theme=dark&bg_color=151515&title_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
