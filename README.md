@@ -22,7 +22,6 @@ UTN software developer driven by IT<br>
 <a href="https://github.com/mLascurain?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 </details>
----
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mLascurain&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
