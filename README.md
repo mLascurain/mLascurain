@@ -39,7 +39,7 @@ UTN software developer driven by IT<br>
   <p>
     <a href="https://github.com/mLascurain/JMboard-php"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mLascurain&repo=JMboard-php&theme=dark&bg_color=151515&title_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/mLascurain/SpeedUp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mLascurain&repo=SpeedUp&theme=dark&bg_color=151515&title_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a> 
-    <a href="https://github.com/mLascurain/weather-api-test"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mLascurain&repo=weather-api-test&theme=dark&bg_color=151515&title_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/mLascurain/weather-api-test"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mLascurain&repo=Weather-api-test&theme=dark&bg_color=151515&title_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
 
 <a href="https://github.com/mLascurain?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
