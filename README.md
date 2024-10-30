@@ -46,12 +46,6 @@ UTN software developer driven by IT<br>
 
 </details>
 
-<h2>Github stats:</h2> 
-
-<br>
-<br>
-
-[![](https://github-readme-stats.vercel.app/api?username=mLascurain&show_icons=true&theme=dark&hide_border=true&locale=en)](https://github.com/mLascurain)
-<h2>⠀</h2>
+---
 
 [![](https://visitcount.itsvg.in/api?id=mLascurain&icon=3&color=12)](https://visitcount.itsvg.in)
