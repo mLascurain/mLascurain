@@ -1,5 +1,5 @@
 
-![banner](https://github.com/user-attachments/assets/b7586b67-4ac3-4eeb-b9da-c2be9e7037e4)
+![banner](https://github.com/user-attachments/assets/b512d501-42d3-4a32-80fe-1df240bf6b56)
 
 #  About Me:<br>
 UTN software developer driven by IT<br>
