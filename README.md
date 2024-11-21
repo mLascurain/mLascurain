@@ -1,7 +1,7 @@
 
 ![banner](https://github.com/user-attachments/assets/b7586b67-4ac3-4eeb-b9da-c2be9e7037e4)
 
-#  About Me:
+#  About Me:<br>
 UTN software developer driven by IT<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-lascurain/)
