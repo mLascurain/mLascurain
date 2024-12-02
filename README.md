@@ -37,7 +37,7 @@ UTN software developer driven by IT<br>
 
 </span>
 <details open> 
-  <summary><h2> Repos</h2></summary>
+  <summary><h2> Some of my projects</h2></summary>
 
   <p>
     <a href="https://github.com/mLascurain/JMboard-php"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mLascurain&repo=JMboard-php&theme=dark&bg_color=151515&title_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
