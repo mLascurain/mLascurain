@@ -37,7 +37,7 @@ UTN software developer driven by IT<br>
 
 </span>
 <details open> 
-  <summary><h2> Some of my projects</h2></summary>
+  <summary><h2>🗂️ Some of my projects</h2></summary>
 
   <p>
     <a href="https://github.com/mLascurain/JMboard-php"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mLascurain&repo=JMboard-php&theme=dark&bg_color=151515&title_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
@@ -49,6 +49,5 @@ UTN software developer driven by IT<br>
 
 </details>
 
----
-
-[![](https://visitcount.itsvg.in/api?id=mLascurain&icon=3&color=12)](https://visitcount.itsvg.in)
+![wave](https://github.com/user-attachments/assets/5f3437ce-7030-48f5-b761-0f19c7440bec)
+<?xml version="1.0" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#65b5ea" fill-opacity="1" d="M0,128L30,149.3C60,171,120,213,180,234.7C240,256,300,256,360,250.7C420,245,480,235,540,208C600,181,660,139,720,112C780,85,840,75,900,101.3C960,128,1020,192,1080,202.7C1140,213,1200,171,1260,154.7C1320,139,1380,149,1410,154.7L1440,160L1440,320L1410,320C1380,320,1320,320,1260,320C1200,320,1140,320,1080,320C1020,320,960,320,900,320C840,320,780,320,720,320C660,320,600,320,540,320C480,320,420,320,360,320C300,320,240,320,180,320C120,320,60,320,30,320L0,320Z"></path></svg>
