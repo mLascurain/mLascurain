@@ -4,11 +4,8 @@
 #  About Me:<br>
 UTN software developer driven by IT<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-lascurain/)
-
-<img alt="Email" src="https://img.shields.io/badge/Gmail-matiaslascurain04@gmail.com-blue?style=flat-square&logo=gmail">
-
-
+<a href="https://www.linkedin.com/in/matias-lascurain/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:matiaslascurain04@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 #  Tech Stack:
 
