@@ -2,7 +2,8 @@
 ![banner](https://github.com/user-attachments/assets/b512d501-42d3-4a32-80fe-1df240bf6b56)
 
 #  About Me:<br>
-UTN software developer driven by IT<br>
+
+I create reliable, maintainable web applications using modern tools and best practices. Whether independently or in a team, I’m always ready to create something amazing.<br>
 
 <a href="https://www.linkedin.com/in/matias-lascurain/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:matiaslascurain04@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
