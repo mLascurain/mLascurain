@@ -3,7 +3,7 @@
 
 #  About Me:<br>
 
-Fullstack developer driven by IT  |  🎓 Associate Degree in Programming at UTN <br>
+#### Fullstack developer driven by IT  |  🎓 Associate Degree in Programming at UTN <br>
 
 <a href="https://www.linkedin.com/in/matias-lascurain/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:matiaslascurain04@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
