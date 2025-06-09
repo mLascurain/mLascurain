@@ -1,15 +1,15 @@
 ![banner](https://github.com/user-attachments/assets/b512d501-42d3-4a32-80fe-1df240bf6b56)
 
-# About Me:<br>
+## About Me:<br>
 
 #### Fullstack developer driven by IT  |  🎓 Associate Degree in Programming at UTN
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-lascurain/)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matiaslascurain04@gmail.com)
 
-# Tech Stack:
+## Tech Stack:
 
-### Languages
+#### Languages
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -23,7 +23,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Other Tools and Technologies
+#### Other Tools and Technologies
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
@@ -39,14 +39,14 @@
 ##
 
 <details open> 
-  <summary><h2>📃 CV</h2></summary>
+  <summary><h3>📃 CV</h3></summary>
   <p align="left">
   <a href="https://drive.google.com/file/d/1fDrjy4-9MXeIXQpFTUZhQOEUw5WjsicD/view?usp=sharing"><img src="https://media.licdn.com/dms/image/v2/D4D2DAQGJrbyVnDokpg/profile-treasury-image-shrink_480_480/B4DZcNgHTBGcAM-/0/1748278212172?e=1750039200&v=beta&t=TjH7lVCCVerSGGC8RID_QVjhzw-ZCt6g90TMMfJgHK4" width="260" alt="Currículum Español" /></a>&nbsp;&nbsp;&nbsp;<a href="https://drive.google.com/file/d/1Q2DSUYKkva-oLc0fxci1UAkM8sfcAflH/view?usp=sharing"><img src="https://media.licdn.com/dms/image/v2/D4D2DAQEs5CzzgIovrg/profile-treasury-image-shrink_1280_1280/B4DZcNgSUnHMAU-/0/1748278257345?e=1750039200&v=beta&t=lmsfbT2HHID_x3Cr2mxa6lGrsnf92UPi7yeepCp7JMs" width="260" alt="Curriculum English" /></a>
   </p>
 </details>
 
 <details open> 
-  <summary><h2>🗂️ Some of my projects</h2></summary>
+  <summary><h3>🗂️ Some of my projects</h3></summary>
   <p>
     <a href="https://github.com/mLascurain/JMboard-php"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mLascurain&repo=JMboard-php&theme=dark&bg_color=151515&title_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/mLascurain/book-manager"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mLascurain&repo=book-manager&theme=dark&bg_color=151515&title_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a> 
