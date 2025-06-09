@@ -14,9 +14,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
 ![Next.js](https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 </br>![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
@@ -34,14 +35,19 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 </br>![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)&nbsp;
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ##
 
 <details open> 
   <summary><h2>📃 CV</h2></summary>
   <p align="left">
-  <a href="https://drive.google.com/file/d/1fDrjy4-9MXeIXQpFTUZhQOEUw5WjsicD/view?usp=sharing"><img src="https://media.licdn.com/dms/image/v2/D4D2DAQGJrbyVnDokpg/profile-treasury-image-shrink_480_480/B4DZcNgHTBGcAM-/0/1748278212172?e=1750039200&v=beta&t=TjH7lVCCVerSGGC8RID_QVjhzw-ZCt6g90TMMfJgHK4" width="260" alt="Currículum Español" /></a>&nbsp;&nbsp;&nbsp;<a href="https://drive.google.com/file/d/1Q2DSUYKkva-oLc0fxci1UAkM8sfcAflH/view?usp=sharing"><img src="https://media.licdn.com/dms/image/v2/D4D2DAQEs5CzzgIovrg/profile-treasury-image-shrink_1280_1280/B4DZcNgSUnHMAU-/0/1748278257345?e=1750039200&v=beta&t=lmsfbT2HHID_x3Cr2mxa6lGrsnf92UPi7yeepCp7JMs" width="260" alt="Curriculum English" /></a>
+  <a href="https://drive.google.com/file/d/1fDrjy4-9MXeIXQpFTUZhQOEUw5WjsicD/view?usp=sharing"><img src="https://media.licdn.com/dms/image/v2/D4D2DAQGJrbyVnDokpg/profile-treasury-image-shrink_480_480/B4DZcNgHTBGcAM-/0/1748278212172?e=1750039200&v=beta&t=TjH7lVCCVerSGGC8RID_QVjhzw-ZCt6g90TMMfJgHK4" width="260" alt="Currículum Español" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1Q2DSUYKkva-oLc0fxci1UAkM8sfcAflH/view?usp=sharing"><img src="https://media.licdn.com/dms/image/v2/D4D2DAQEs5CzzgIovrg/profile-treasury-image-shrink_1280_1280/B4DZcNgSUnHMAU-/0/1748278257345?e=1750039200&v=beta&t=lmsfbT2HHID_x3Cr2mxa6lGrsnf92UPi7yeepCp7JMs" width="260" alt="Curriculum English" /></a>
   </p>
 </details>
 
