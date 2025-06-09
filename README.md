@@ -41,7 +41,7 @@
 <details open> 
   <summary><h2>📃 CV</h2></summary>
   <p align="left">
-  <a href="https://drive.google.com/file/d/1fDrjy4-9MXeIXQpFTUZhQOEUw5WjsicD/view?usp=sharing"><img src="https://media.licdn.com/dms/image/v2/D4D2DAQGJrbyVnDokpg/profile-treasury-image-shrink_480_480/B4DZcNgHTBGcAM-/0/1748278212172?e=1750039200&v=beta&t=TjH7lVCCVerSGGC8RID_QVjhzw-ZCt6g90TMMfJgHK4" width="260" alt="Currículum Español" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://drive.google.com/file/d/1fDrjy4-9MXeIXQpFTUZhQOEUw5WjsicD/view?usp=sharing"><img src="https://media.licdn.com/dms/image/v2/D4D2DAQEs5CzzgIovrg/profile-treasury-image-shrink_1280_1280/B4DZcNgSUnHMAU-/0/1748278257345?e=1750039200&v=beta&t=lmsfbT2HHID_x3Cr2mxa6lGrsnf92UPi7yeepCp7JMs" width="260" alt="Curriculum English" /></a>
+  <a href="https://drive.google.com/file/d/1fDrjy4-9MXeIXQpFTUZhQOEUw5WjsicD/view?usp=sharing"><img src="https://media.licdn.com/dms/image/v2/D4D2DAQGJrbyVnDokpg/profile-treasury-image-shrink_480_480/B4DZcNgHTBGcAM-/0/1748278212172?e=1750039200&v=beta&t=TjH7lVCCVerSGGC8RID_QVjhzw-ZCt6g90TMMfJgHK4" width="260" alt="Currículum Español" /></a>&nbsp;&nbsp;&nbsp;<a href="https://drive.google.com/file/d/1fDrjy4-9MXeIXQpFTUZhQOEUw5WjsicD/view?usp=sharing"><img src="https://media.licdn.com/dms/image/v2/D4D2DAQEs5CzzgIovrg/profile-treasury-image-shrink_1280_1280/B4DZcNgSUnHMAU-/0/1748278257345?e=1750039200&v=beta&t=lmsfbT2HHID_x3Cr2mxa6lGrsnf92UPi7yeepCp7JMs" width="260" alt="Curriculum English" /></a>
   </p>
 </details>
 
@@ -51,6 +51,6 @@
     <a href="https://github.com/mLascurain/JMboard-php"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mLascurain&repo=JMboard-php&theme=dark&bg_color=151515&title_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/mLascurain/book-manager"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mLascurain&repo=book-manager&theme=dark&bg_color=151515&title_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a> 
     <a href="https://github.com/mLascurain/Casa-Diez-Ventas"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mLascurain&repo=Casa-Diez-Ventas&theme=dark&bg_color=151515&title_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  </p></br>
+  </p>
 <a href="https://github.com/mLascurain?tab=repositories&sort=stargazers"><img width="278" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
