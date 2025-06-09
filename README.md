@@ -51,6 +51,6 @@
     <a href="https://github.com/mLascurain/JMboard-php"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mLascurain&repo=JMboard-php&theme=dark&bg_color=151515&title_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/mLascurain/book-manager"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mLascurain&repo=book-manager&theme=dark&bg_color=151515&title_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a> 
     <a href="https://github.com/mLascurain/Casa-Diez-Ventas"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mLascurain&repo=Casa-Diez-Ventas&theme=dark&bg_color=151515&title_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  </p>
+  </p></br>
 <a href="https://github.com/mLascurain?tab=repositories&sort=stargazers"><img width="278" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
