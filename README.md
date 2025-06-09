@@ -46,8 +46,8 @@
 <details open> 
   <summary><h2>📃 CV</h2></summary>
   <p align="left">
-  <a href="https://drive.google.com/file/d/1xwDZkGMqgC7xm2CIZTdDVzpddku0mmUc/view?usp=sharing"><img src="https://media.licdn.com/dms/image/v2/D4D2DAQGJrbyVnDokpg/profile-treasury-image-shrink_480_480/B4DZcNgHTBGcAM-/0/1748278212172?e=1750039200&v=beta&t=TjH7lVCCVerSGGC8RID_QVjhzw-ZCt6g90TMMfJgHK4" width="260" alt="Currículum Español" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1wyZgoiP19mKjOSfibj4rSUxTYQbmikOZ/view?usp=sharing"><img src="https://media.licdn.com/dms/image/v2/D4D2DAQEs5CzzgIovrg/profile-treasury-image-shrink_1280_1280/B4DZcNgSUnHMAU-/0/1748278257345?e=1750039200&v=beta&t=lmsfbT2HHID_x3Cr2mxa6lGrsnf92UPi7yeepCp7JMs" width="260" alt="Curriculum English" /></a>
+  <a href="https://drive.google.com/file/d/1xwDZkGMqgC7xm2CIZTdDVzpddku0mmUc/view?usp=sharing"><img src="https://github.com/user-attachments/assets/d94fac77-4c92-480a-805d-21291607eb73" width="260" alt="Currículum Español" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1wyZgoiP19mKjOSfibj4rSUxTYQbmikOZ/view?usp=sharing"><img src="https://github.com/user-attachments/assets/9df947bd-35c9-4334-9cea-9939556ad77c" width="260" alt="Curriculum English" /></a>
   </p>
 </details>
 
