@@ -47,7 +47,7 @@
   <summary><h2>📃 CV</h2></summary>
   <p align="left">
   <a href="https://drive.google.com/file/d/1F4grndEdUtrResSWx5doyyz9VlA4l5sM/view?usp=sharing"><img src="https://github.com/user-attachments/assets/d94fac77-4c92-480a-805d-21291607eb73" width="260" alt="Currículum Español" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1wyZgoiP19mKjOSfibj4rSUxTYQbmikOZ/view?usp=sharing"><img src="https://github.com/user-attachments/assets/9df947bd-35c9-4334-9cea-9939556ad77c" width="260" alt="Curriculum English" /></a>
+  <a href="https://drive.google.com/file/d/1jNJyaS5wSr9_ZQVUz8-EW1Ca5VXvrGfS/view?usp=sharing"><img src="https://github.com/user-attachments/assets/9df947bd-35c9-4334-9cea-9939556ad77c" width="260" alt="Curriculum English" /></a>
   </p>
 </details>
 
