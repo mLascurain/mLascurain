@@ -47,13 +47,3 @@
   <a href="https://drive.google.com/file/d/1jNJyaS5wSr9_ZQVUz8-EW1Ca5VXvrGfS/view?usp=sharing"><img src="https://github.com/user-attachments/assets/9df947bd-35c9-4334-9cea-9939556ad77c" width="260" alt="Curriculum English" /></a>
   </p>
 </details>
-
-<details open> 
-  <summary><h2>🗂️ Some of my projects</h2></summary>
-  <p>
-    <a href="https://github.com/mLascurain/KiwDesktops"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mLascurain&repo=KiwDesktops&theme=dark&bg_color=151515&title_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/mLascurain/JMboard-php"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mLascurain&repo=JMboard-php&theme=dark&bg_color=151515&title_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a> 
-    <a href="https://github.com/mLascurain/SpeedUp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mLascurain&repo=SpeedUp&theme=dark&bg_color=151515&title_color=FFFFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  </p>
-  <a href="https://github.com/mLascurain?tab=repositories&sort=stargazers"><img width="278" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
